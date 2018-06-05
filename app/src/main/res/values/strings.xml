@@ -1,0 +1,23 @@
+<resources>
+    <!-- App details. -->
+    <string name="app_name">Daresay Weather</string>
+
+    <string name="empty_value">--</string>
+
+    <!-- Temperature metric -->
+    <string name="farenheit">F</string>
+    <string name="celsius">C</string>
+
+    <!-- Permission -->
+    <string name="explain_location_permission">Location permission is required to identify current location</string>
+    <string name="failed_location_permission">Location permission is required to identify current location. Hence the app cannot work</string>
+
+    <string name="humidity">HUMIDITY</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="weather_description_default">Getting current weather…</string>
+
+    <!-- Content Description. -->
+    <string name="weather_icon_description">Weather</string>
+    <string name="refresh_description">Refresh</string>
+    <string name="degree_description">Degree dot</string>
+</resources>

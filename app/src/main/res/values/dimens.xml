@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UI -->
+    <dimen name="temperature_size">80sp</dimen>
+    <dimen name="temperature_metric_size">22sp</dimen>
+    <dimen name="time_size">18sp</dimen>
+    <dimen name="city_name_size">24sp</dimen>
+    <dimen name="humidity_size">24sp</dimen>
+    <dimen name="pressure_size">24sp</dimen>
+    <dimen name="weather_description_size">18sp</dimen>
+</resources>
